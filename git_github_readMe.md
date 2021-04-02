@@ -5,7 +5,6 @@
 
 - Ouvrir l'invité de commande : 
   - git CMD
-    
 - Vérifier la version : 
   git --version
 - Vérifier la configuration : git config
@@ -16,4 +15,11 @@
 - Aller dans ce dossier : cd xplab/
 - Initialiser Git : git init
 - Vérifier le statut : git status
+- Ajouter un fichier à Git
+  - git add "git_github_readMe.md"
+  - git commit -m "project init"
+
+- Modifier un fichier et le réimporter
+  - modifier le fichier en local
+  - re-effectuer les 2 opérations ci-dessus d'ajout de fichier
 
